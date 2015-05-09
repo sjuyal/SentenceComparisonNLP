@@ -23,6 +23,7 @@ How to RUN
 ------------------
 
 use "make" to compile all the files
+	
 	make
 
 	./demo-word.sh <texttrainingfile> (Text file can contain any text)
