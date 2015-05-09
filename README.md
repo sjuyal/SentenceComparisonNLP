@@ -23,5 +23,8 @@ How to RUN
 ------------------
 
 use "make" to compile all the files
-./demo-word.sh <texttrainingfile> (Text file can contain any text)
-./distance vectors.bin <fileforcomparison> (Check SICK_trial for sample file format)
+	make
+
+	./demo-word.sh <texttrainingfile> (Text file can contain any text)
+
+	./distance vectors.bin <fileforcomparison> (Check SICK_trial for sample file format)
