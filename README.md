@@ -22,9 +22,7 @@ $ git clone https://github.com/sjuyal/SentenceComparisonNLP.git
 How to RUN
 ------------------
 
-use "make" to compile all the files
-	
-	make
+	make  (to compile all the files)
 
 	./demo-word.sh <texttrainingfile> (Text file can contain any text)
 
